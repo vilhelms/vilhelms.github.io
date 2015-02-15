@@ -28,13 +28,14 @@ a {
     .sidebar .name #fname {
       padding-left: 1px;
       font-size: 23px;
-      letter-spacing: 5px;
+      letter-spacing: 4px;
       color: black; }
     .sidebar .name #lname {
-      font-size: 17px;
-      font-weight: bold;
-      letter-spacing: 1px;
-      color: black; }
+      font-size: 12px;
+      font-weight: lighter;
+      letter-spacing: 1.5px;
+      color: black;
+      text-align: center; }
   .sidebar .meta a {
     margin-left: 0px;
     color: black; }
@@ -96,7 +97,7 @@ a {
     text-decoration: none; }
   .content h1 {
     font-size: 36px;
-    margin: 18px 0 5px 0; }
+    margin: 18px 0 18px 0; }
   .content h2 {
     font-size: 30px;
     margin-bottom: 15px; }
